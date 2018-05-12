@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39682'
     url: http://www.gutenberg.org/2009/agents/39682
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38875#The-Maid-of-Honour-Volume-2--of-3-A-Tale-of-the-Dark-Days-of-France
 gutenberg_issued: '2012-02-14'
 gutenberg_type: Text
 identifiers:
