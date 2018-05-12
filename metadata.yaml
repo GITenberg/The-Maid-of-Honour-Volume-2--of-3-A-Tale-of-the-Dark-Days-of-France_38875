@@ -1,0 +1,27 @@
+_repo: The-Maid-of-Honour-Volume-2--of-3-A-Tale-of-the-Dark-Days-of-France_38875
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wingfield, Lewis
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '39682'
+    url: http://www.gutenberg.org/2009/agents/39682
+description: ''
+gutenberg_issued: '2012-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcsh 'Historical fiction'
+title: 'The Maid of Honour: A Tale of the Dark Days of France. Vol. 2 (of 3)'
+url: http://www.gutenberg.org/ebooks/38875
